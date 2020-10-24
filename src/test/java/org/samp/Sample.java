@@ -12,6 +12,18 @@ public class Sample {
 		System.out.println("Seconnd Task");
 		System.out.println();
 		System.out.println();
-		
+		System.out.println("Line 1");
+		System.out.println("donnee");
+		System.out.println("Line 2");
+		System.out.println("Line 1");
+		System.out.println("donnee");
+		System.out.println("Line 2");
+		System.out.println("Line 1");
+		System.out.println("donnee");
+		System.out.println("Line 2");
+		System.out.println("Line 1");
+		System.out.println("donnee");
+		System.out.println("Line 2");
+	
 	}
 }
