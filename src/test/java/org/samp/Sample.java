@@ -7,8 +7,11 @@ public class Sample {
 		System.out.println("Second Line 1");
 		System.out.println("Second Line 2");
 		System.out.println("Second Line 3");
-		
+		System.out.println();
+		System.out.println();
 		System.out.println("Seconnd Task");
+		System.out.println();
+		System.out.println();
 		
 	}
 }
